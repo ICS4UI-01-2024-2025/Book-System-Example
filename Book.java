@@ -26,10 +26,10 @@ public class Book {
 
     public String toString(){
         String output = "";
-        output += this.isbn + " : ";
-        output += this.title + " by ";
-        output += this.author + " ";
-        output += "(" + this.rating + ")";
+        output += this.isbn + ",";
+        output += this.author + ",";
+        output += this.title + ",";
+        output += this.rating;
         return output;
     }
 }

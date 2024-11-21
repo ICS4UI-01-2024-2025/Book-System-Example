@@ -18,7 +18,6 @@ isbn13,authors,title,average_rating
 9780439023500,Suzanne Collins,Catching Fire (The Hunger Games #2),4.3
 9780439655480,J.K. Rowling,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),4.53
 9780618346260,J.R.R. Tolkien,The Fellowship of the Ring (The Lord of the Rings #1),4.34
-9780439023510,Suzanne Collins,Mockingjay (The Hunger Games #3),4.03
 9780439358070,J.K. Rowling,Harry Potter and the Order of the Phoenix (Harry Potter #5),4.46
 9780316166680,Alice Sebold,The Lovely Bones,3.77
 9780439064870,J.K. Rowling,Harry Potter and the Chamber of Secrets (Harry Potter #2),4.37
@@ -83,9 +82,7 @@ isbn13,authors,title,average_rating
 9780141439600,Charles Dickens,A Tale of Two Cities,3.81
 9780307348140,Michael Crichton,Jurassic Park (Jurassic Park #1),3.96
 9780060256650,Shel Silverstein,The Giving Tree,4.38
-9780385338610,John Grisham,A Time to Kill,4.03
 9780374500020,Elie Wiesel,Night (The Night Trilogy #1),4.3
-9780142414930,John Green,Paper Towns,3.88
 9780345418260,William Goldman,The Princess Bride ,4.25
 9780140385720,S.E. Hinton,The Outsiders,4.06
 9780385737940,James Dashner,The Maze Runner (Maze Runner #1),4.02
@@ -97,3 +94,4 @@ isbn13,authors,title,average_rating
 9780393970130,Bram Stoker,Dracula,3.98
 9780307269980,Stieg Larsson,The Girl Who Played with Fire (Millennium #2),4.22
 9781612130580,E.L. James,Fifty Shades Darker (Fifty Shades #2),3.87
+98728972876,Dr. Suess,Cat in the Hat,4.32
