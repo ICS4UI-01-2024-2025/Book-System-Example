@@ -83,6 +83,25 @@ public class Collection {
         }
     }
 
+    public ArrayList<Book> searchByTitle(String title){
+        // initialize an arraylist to store results
+        ArrayList<Book> found = new ArrayList<>();
+        // go through each book
+        for(Book b : this.books){
+            // see if the name matches
+            if(b.getTitle().contains(title)){
+                // add it to the list of found items
+                found.add(b);
+            }
+        }
+        // match the other search, if nothing found -> null
+        if(found.isEmpty()){
+            return null;
+        }else{
+            return found;
+        }
+    }
+
     public void add(long isbn, String author, String title, double rating){
         Book b = new Book(isbn, author, title, rating);
         this.books.add(b);

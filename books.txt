@@ -21,7 +21,6 @@ isbn13,authors,title,average_rating
 9780439358070,J.K. Rowling,Harry Potter and the Order of the Phoenix (Harry Potter #5),4.46
 9780316166680,Alice Sebold,The Lovely Bones,3.77
 9780439064870,J.K. Rowling,Harry Potter and the Chamber of Secrets (Harry Potter #2),4.37
-9780439139600,J.K. Rowling,Harry Potter and the Goblet of Fire (Harry Potter #4),4.53
 9780545010220,J.K. Rowling,Harry Potter and the Deathly Hallows (Harry Potter #7),4.61
 9780307277670,Dan Brown,The Da Vinci Code (Robert Langdon #2),3.79
 9780439785970,J.K. Rowling,Harry Potter and the Half-Blood Prince (Harry Potter #6),4.54
